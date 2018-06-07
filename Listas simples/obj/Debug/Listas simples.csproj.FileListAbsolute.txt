@@ -1,0 +1,10 @@
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\bin\Debug\Listas simples.exe.config
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\bin\Debug\Listas simples.exe
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\bin\Debug\Listas simples.pdb
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas simples.csprojResolveAssemblyReference.cache
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas_simples.Form1.resources
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas_simples.Properties.Resources.resources
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas simples.csproj.GenerateResource.Cache
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas simples.csproj.CoreCompileInputs.cache
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas simples.exe
+C:\Users\jufid\Desktop\Cuarto Semestre\Estructura de datos\Listas simples\Listas simples\obj\Debug\Listas simples.pdb
